@@ -1,2 +1,2 @@
-# Lab6_Clites
-DIG 3480 - Lab 6 Colby Clites
+# JSPlatformer
+JS Platformer for DIG 3480C
